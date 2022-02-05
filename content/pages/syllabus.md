@@ -30,34 +30,271 @@ Murman, Earll, Hugh McManus, and Annalisa Weigel. ![This resource may not render
 Schedule
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Day 1**{{< /td-colspan >}} ||
-| 1-1 | Why am I here? |
-| 1-2 | The start of your Lean journey |
-| 1-3 | Lean thinking |
-| 1-4 | New Balance® plant tour |
-| 1-5 | People: The heart of Lean |
-| 1-6 | Value stream mapping basics |
-| {{< td-colspan 2 >}}**Day 2 Enterprise Option**{{< /td-colspan >}} ||
-| 2-1 | Lean enterprise simulation, segment I |
-| 2-2 | Lean supply chain basics |
-| 2-3 | Lean enterprise simulation, segment II |
-| 2-4 | Lean engineering basics |
-| 2-5 | Lean enterprise simulation, segment III |
-| {{< td-colspan 2 >}}**Day 2 Healthcare Option**{{< /td-colspan >}} ||
-| 2-1 | Lean healthcare simulation I: Baseline performance |
-| 2-2 | Continuous process improvement |
-| 2-3 | Lean healthcare simulation II |
-| 2-4 | Improving the enterprise |
-| 2-5 | Lean healthcare simulation III |
-| {{< td-colspan 2 >}}**Day 2 Common**{{< /td-colspan >}} ||
-| 2-6 | Accounts payable I: Case study introduction |
-| {{< td-colspan 2 >}}**Day 3**{{< /td-colspan >}} ||
-| 3-1 | Accounts payable II: Value stream analysis |
-| 3-2 | Variability simulation |
-| 3-3 | Guest speaker, Susan Sheehy  {{< br >}}Lean for Healthcare: An Overview |
-| 3-4 | A3 thinking |
-| 3-5 | Quality tools and topic |
-| 3-6 | Six Sigma basics |
-| 3-7 | Enterprise speakers {{< br >}}{{< br >}} *   Dick Lewis: Leading improvement across a complex aerospace enterprise{{< br >}}*   Eric Dickson: Applying Lean in an academic medical center: Lessons learned{{< br >}}*   Clay Jones: Leading Rockwell Collins' Lean transformation {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Day 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-1
+{{< tdclose >}}
+{{< tdopen >}}
+Why am I here?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+The start of your Lean journey
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+Lean thinking
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+New Balance® plant tour
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-5
+{{< tdclose >}}
+{{< tdopen >}}
+People: The heart of Lean
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-6
+{{< tdclose >}}
+{{< tdopen >}}
+Value stream mapping basics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Day 2 Enterprise Option**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-1
+{{< tdclose >}}
+{{< tdopen >}}
+Lean enterprise simulation, segment I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-2
+{{< tdclose >}}
+{{< tdopen >}}
+Lean supply chain basics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Lean enterprise simulation, segment II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Lean engineering basics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-5
+{{< tdclose >}}
+{{< tdopen >}}
+Lean enterprise simulation, segment III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Day 2 Healthcare Option**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-1
+{{< tdclose >}}
+{{< tdopen >}}
+Lean healthcare simulation I: Baseline performance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-2
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous process improvement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Lean healthcare simulation II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Improving the enterprise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-5
+{{< tdclose >}}
+{{< tdopen >}}
+Lean healthcare simulation III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Day 2 Common**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-6
+{{< tdclose >}}
+{{< tdopen >}}
+Accounts payable I: Case study introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Day 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-1
+{{< tdclose >}}
+{{< tdopen >}}
+Accounts payable II: Value stream analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-2
+{{< tdclose >}}
+{{< tdopen >}}
+Variability simulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-3
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker, Susan Sheehy  
+Lean for Healthcare: An Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+A3 thinking
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+{{< tdopen >}}
+Quality tools and topic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-6
+{{< tdclose >}}
+{{< tdopen >}}
+Six Sigma basics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-7
+{{< tdclose >}}
+{{< tdopen >}}
+Enterprise speakers
+
+*   Dick Lewis: Leading improvement across a complex aerospace enterprise
+*   Eric Dickson: Applying Lean in an academic medical center: Lessons learned
+*   Clay Jones: Leading Rockwell Collins' Lean transformation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
