@@ -288,7 +288,7 @@ Lean healthcare simulation III
 
 [Accounts payable at Rockwell Collins questions (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_2-6ques)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Current state value stream map (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_2-6vsm)
+[Current state value stream map (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_2-6vsm)
 
 (These three documents are courtesy of Phil Jones, Sylvia and Clement T. Hanson Professor of Manufacturing Productivity, Tippie School of Management, University of Iowa, and are used with permission.)
 

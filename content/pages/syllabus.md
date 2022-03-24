@@ -25,7 +25,7 @@ Biographies of the course instructors can be found below:
 
 The following paper provides an overview of the course history, content, and outcomes.
 
-Murman, Earll, Hugh McManus, and Annalisa Weigel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The LAI Lean Academy Experience: Introductory Lean Six Sigma Curriculum." (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_iserc2013) Presented at the Industrial and Systems Engineering Research Conference, May 21, 2013.
+Murman, Earll, Hugh McManus, and Annalisa Weigel. ["The LAI Lean Academy Experience: Introductory Lean Six Sigma Curriculum." (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_iserc2013) Presented at the Industrial and Systems Engineering Research Conference, May 21, 2013.
 
 Schedule
 --------
