@@ -4,6 +4,7 @@ description: This resource contains information regarding instructor biography, 
   McManus.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/e4bea8dd89acf49d450a325b2e04065e_MIT16_660JIAP12_mcmanus.pdf
 file_type: application/pdf
+parent_uid: 549a545c-14f9-1e5d-70db-082f366376c2
 resourcetype: Document
 title: 16.660 Instructor Biography, Hugh McManus
 uid: e4bea8dd-89ac-f49d-450a-325b2e04065e

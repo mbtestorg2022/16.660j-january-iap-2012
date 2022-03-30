@@ -4,6 +4,7 @@ description: This file contains in formation regarding enhancing faculty compete
   in lean thinking bodies of knowledge.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/5159479b4698ae8a764d482b2e1f11d7_MIT16_660JIAP12_MURManCand.pdf
 file_type: application/pdf
+parent_uid: a261b6be-1429-bc33-3128-d8f9b914a91b
 resourcetype: Document
 title: MIT16_660JIAP12_MURManCand.pdf
 uid: 5159479b-4698-ae8a-764d-482b2e1f11d7
